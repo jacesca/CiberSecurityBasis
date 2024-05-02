@@ -1,5 +1,5 @@
 # Cyber Security Basis
-Sample code to ilustrate sombe cyber security basis
+Example codes to ilustrate some cyber security basis
 
 Features:
 - Password strength
